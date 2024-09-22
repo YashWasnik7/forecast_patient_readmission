@@ -5,5 +5,5 @@ Purpose of this project is to perform EDA of patient hospital admission, idenfit
 
 ![image](https://github.com/user-attachments/assets/c6de1775-e769-425d-8abf-8eacb66ff6cd)
 
-Forecast:
 ![image](https://github.com/user-attachments/assets/e05c383c-eabc-4629-8779-0433d0a6cc14)
+Forecast:
